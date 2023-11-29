@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package frost.blog;
+
+import "gogoproto/gogo.proto";
+import "frost/blog/params.proto";
+
+option go_package = "frost/x/blog/types";
+
+// GenesisState defines the blog module's genesis state.
+message GenesisState {
+  Params params  = 1 [(gogoproto.nullable) = false];
+  string port_id = 2;
+}
+
