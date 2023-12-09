@@ -1,0 +1,36 @@
+1702106829343 : ·
+1702106829345 : · 🛸 Ignite CLI v28.0.0 is available!
+1702106829348 : ·
+1702106829352 : · To upgrade your Ignite CLI version, see the upgrade doc: https://docs.ignite.com/guide/install#upgrading-your-ignite-cli-installation
+1702106829354 : ·
+1702106829357 : ··
+1702106829359 :
+1702106829361 : ------
+1702106829363 : Paths
+1702106829365 : ------
+1702106829367 :
+1702106829369 : frost-00-frost-01:
+1702106829372 : frost-00 > (port: blog) (channel: channel-0)
+1702106829374 : frost-01 > (port: blog) (channel: channel-0)
+1702106829377 :
+1702106829379 : frost-00-frost-02:
+1702106829380 : frost-00 > (port: blog) (channel: channel-1)
+1702106829382 : frost-02 > (port: blog) (channel: channel-0)
+1702106829384 :
+1702106829385 : frost-00-frost-03:
+1702106829387 : frost-00 > (port: blog) (channel: channel-2)
+1702106829388 : frost-03 > (port: blog) (channel: channel-0)
+1702106829390 :
+1702106829392 : frost-00-frost-04:
+1702106829393 : frost-00 > (port: blog) (channel: channel-3)
+1702106829395 : frost-04 > (port: blog) (channel: channel-0)
+1702106829396 :
+1702106829398 : ------
+1702106829399 : Listening and relaying packets between chains...
+1702106829401 : ------
+1702106829402 :
+1702106866832 : Relay 14 packets from frost-02 => frost-00
+1702106874254 : Relay 14 acks from frost-00 => frost-02
+1702106882289 : Relay 8 packets from frost-03 => frost-00
+1702106889602 : Relay 8 acks from frost-00 => frost-03
+1702106897603 : ✘ Query failed with (6): rpc error: code = Unknown desc = failed to execute message; message index: 5: timeout packet verification failed: packet timeout has not been reached for height or timestamp: packet timeout [cosmos/ibc-go/v6@v6.1.0/modules/core/04-channel/keeper/timeout.go:72] With gas wanted: '18446744073709551615' and gas used: '479542' : unknown request

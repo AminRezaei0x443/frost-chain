@@ -1,0 +1,32 @@
+1702106389331 : ·
+1702106389334 : · 🛸 Ignite CLI v28.0.0 is available!
+1702106389337 : ·
+1702106389341 : · To upgrade your Ignite CLI version, see the upgrade doc: https://docs.ignite.com/guide/install#upgrading-your-ignite-cli-installation
+1702106389345 : ·
+1702106389348 : ··
+1702106389351 :
+1702106389355 : ------
+1702106389360 : Paths
+1702106389364 : ------
+1702106389367 :
+1702106389369 : frost-00-frost-01:
+1702106389372 : frost-00 > (port: blog) (channel: channel-0)
+1702106389397 : frost-01 > (port: blog) (channel: channel-0)
+1702106389400 :
+1702106389402 : frost-00-frost-02:
+1702106389405 : frost-00 > (port: blog) (channel: channel-1)
+1702106389407 : frost-02 > (port: blog) (channel: channel-0)
+1702106389409 :
+1702106389412 : frost-00-frost-03:
+1702106389415 : frost-00 > (port: blog) (channel: channel-2)
+1702106389417 : frost-03 > (port: blog) (channel: channel-0)
+1702106389419 :
+1702106389421 : frost-00-frost-04:
+1702106389422 : frost-00 > (port: blog) (channel: channel-3)
+1702106389424 : frost-04 > (port: blog) (channel: channel-0)
+1702106389426 :
+1702106389427 : ------
+1702106389429 : Listening and relaying packets between chains...
+1702106389431 : ------
+1702106389432 :
+1702106393017 : ✘ Fork/exec /tmp/xrelayer1992627182: text file busy

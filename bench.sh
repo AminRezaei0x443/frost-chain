@@ -1,4 +1,4 @@
-source /home/a27rezae/.boot.sh
+# source /home/a27rezae/.boot.sh
 
 project="$1"
 n="$2"
@@ -31,9 +31,9 @@ for (( i = 0; i <$n ; i++ )); do
 
     if [ $i -eq 0 ]
     then
-        sleep 20
+        sleep 36
     else
-        sleep 20
+        sleep 36
     fi
 done
 
@@ -62,4 +62,9 @@ for (( i = 1; i <$n ; i++ )); do
     --target-account "default" > bench-logs/relayer-c-"$i".log 2>&1
 done
 
-ignite relayer connect > bench-logs/relayer.log 2>&1 &
+
+for xi in {1..10000}
+do
+    ignite relayer connect | ./predate.sh > bench-logs/relayer$xi.log
+    sleep 30
+done

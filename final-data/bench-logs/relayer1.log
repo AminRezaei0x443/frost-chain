@@ -1,0 +1,40 @@
+1702105409498 : ·
+1702105409500 : · 🛸 Ignite CLI v28.0.0 is available!
+1702105409502 : ·
+1702105409506 : · To upgrade your Ignite CLI version, see the upgrade doc: https://docs.ignite.com/guide/install#upgrading-your-ignite-cli-installation
+1702105409509 : ·
+1702105409513 : ··
+1702105409515 :
+1702105638822 : ------
+1702105638826 : Paths
+1702105638831 : ------
+1702105638835 :
+1702105638838 : frost-00-frost-01:
+1702105638841 : frost-00 > (port: blog) (channel: channel-0)
+1702105638843 : frost-01 > (port: blog) (channel: channel-0)
+1702105638846 :
+1702105638849 : frost-00-frost-02:
+1702105638851 : frost-00 > (port: blog) (channel: channel-1)
+1702105638854 : frost-02 > (port: blog) (channel: channel-0)
+1702105638856 :
+1702105638857 : frost-00-frost-03:
+1702105638859 : frost-00 > (port: blog) (channel: channel-2)
+1702105638861 : frost-03 > (port: blog) (channel: channel-0)
+1702105638862 :
+1702105638863 : frost-00-frost-04:
+1702105638865 : frost-00 > (port: blog) (channel: channel-3)
+1702105638866 : frost-04 > (port: blog) (channel: channel-0)
+1702105638868 :
+1702105638869 : ------
+1702105638871 : Listening and relaying packets between chains...
+1702105638872 : ------
+1702105638874 :
+1702105726591 : Relay 10 packets from frost-01 => frost-00
+1702105733939 : Relay 10 acks from frost-00 => frost-01
+1702105736597 : Relay 14 packets from frost-02 => frost-00
+1702105744958 : Relay 14 acks from frost-00 => frost-02
+1702105751047 : Relay 10 packets from frost-03 => frost-00
+1702105758387 : Relay 10 acks from frost-00 => frost-03
+1702105761302 : Relay 16 packets from frost-04 => frost-00
+1702105769701 : Relay 16 acks from frost-00 => frost-04
+1702105777691 : ✘ Query failed with (6): rpc error: code = Unknown desc = failed to execute message; message index: 5: timeout packet verification failed: packet timeout has not been reached for height or timestamp: packet timeout [cosmos/ibc-go/v6@v6.1.0/modules/core/04-channel/keeper/timeout.go:72] With gas wanted: '18446744073709551615' and gas used: '482384' : unknown request

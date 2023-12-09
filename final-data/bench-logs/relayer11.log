@@ -1,0 +1,46 @@
+1702106681282 : ·
+1702106681284 : · 🛸 Ignite CLI v28.0.0 is available!
+1702106681288 : ·
+1702106681292 : · To upgrade your Ignite CLI version, see the upgrade doc: https://docs.ignite.com/guide/install#upgrading-your-ignite-cli-installation
+1702106681295 : ·
+1702106681298 : ··
+1702106681300 :
+1702106681302 : ------
+1702106681303 : Paths
+1702106681304 : ------
+1702106681306 :
+1702106681308 : frost-00-frost-01:
+1702106681315 : frost-00 > (port: blog) (channel: channel-0)
+1702106681318 : frost-01 > (port: blog) (channel: channel-0)
+1702106681321 :
+1702106681323 : frost-00-frost-02:
+1702106681325 : frost-00 > (port: blog) (channel: channel-1)
+1702106681328 : frost-02 > (port: blog) (channel: channel-0)
+1702106681330 :
+1702106681332 : frost-00-frost-03:
+1702106681335 : frost-00 > (port: blog) (channel: channel-2)
+1702106681339 : frost-03 > (port: blog) (channel: channel-0)
+1702106681342 :
+1702106681345 : frost-00-frost-04:
+1702106681348 : frost-00 > (port: blog) (channel: channel-3)
+1702106681350 : frost-04 > (port: blog) (channel: channel-0)
+1702106681353 :
+1702106681356 : ------
+1702106681359 : Listening and relaying packets between chains...
+1702106681363 : ------
+1702106681366 :
+1702106713429 : Relay 1 packets from frost-01 => frost-00
+1702106717937 : Relay 16 packets from frost-02 => frost-00
+1702106720649 : Relay 1 acks from frost-00 => frost-01
+1702106725881 : Relay 16 acks from frost-00 => frost-02
+1702106732965 : Relay 10 packets from frost-03 => frost-00
+1702106740328 : Relay 10 acks from frost-00 => frost-03
+1702106743108 : Relay 14 packets from frost-04 => frost-00
+1702106750469 : Relay 14 acks from frost-00 => frost-04
+1702106758559 : Relay 8 packets from frost-01 => frost-00
+1702106765881 : Relay 8 acks from frost-00 => frost-01
+1702106767569 : Relay 14 packets from frost-02 => frost-00
+1702106774997 : Relay 14 acks from frost-00 => frost-02
+1702106783265 : Relay 9 packets from frost-03 => frost-00
+1702106790570 : Relay 9 acks from frost-00 => frost-03
+1702106798928 : ✘ Query failed with (6): rpc error: code = Unknown desc = failed to execute message; message index: 5: timeout packet verification failed: packet timeout has not been reached for height or timestamp: packet timeout [cosmos/ibc-go/v6@v6.1.0/modules/core/04-channel/keeper/timeout.go:72] With gas wanted: '18446744073709551615' and gas used: '495822' : unknown request

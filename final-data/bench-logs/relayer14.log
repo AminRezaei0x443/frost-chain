@@ -1,0 +1,41 @@
+1702107075053 : ·
+1702107075055 : · 🛸 Ignite CLI v28.0.0 is available!
+1702107075057 : ·
+1702107075059 : · To upgrade your Ignite CLI version, see the upgrade doc: https://docs.ignite.com/guide/install#upgrading-your-ignite-cli-installation
+1702107075062 : ·
+1702107075064 : ··
+1702107075066 :
+1702107075072 : ------
+1702107075074 : Paths
+1702107075076 : ------
+1702107075078 :
+1702107075079 : frost-00-frost-01:
+1702107075082 : frost-00 > (port: blog) (channel: channel-0)
+1702107075084 : frost-01 > (port: blog) (channel: channel-0)
+1702107075085 :
+1702107075087 : frost-00-frost-02:
+1702107075089 : frost-00 > (port: blog) (channel: channel-1)
+1702107075091 : frost-02 > (port: blog) (channel: channel-0)
+1702107075092 :
+1702107075095 : frost-00-frost-03:
+1702107075096 : frost-00 > (port: blog) (channel: channel-2)
+1702107075098 : frost-03 > (port: blog) (channel: channel-0)
+1702107075100 :
+1702107075102 : frost-00-frost-04:
+1702107075104 : frost-00 > (port: blog) (channel: channel-3)
+1702107075106 : frost-04 > (port: blog) (channel: channel-0)
+1702107075108 :
+1702107075110 : ------
+1702107075112 : Listening and relaying packets between chains...
+1702107075113 : ------
+1702107075115 :
+1702107108037 : Relay 1 packets from frost-01 => frost-00
+1702107112686 : Relay 14 packets from frost-02 => frost-00
+1702107115259 : Relay 1 acks from frost-00 => frost-01
+1702107120081 : Relay 14 acks from frost-00 => frost-02
+1702107128030 : Relay 9 packets from frost-03 => frost-00
+1702107135356 : Relay 9 acks from frost-00 => frost-03
+1702107137342 : Relay 14 packets from frost-04 => frost-00
+1702107144718 : Relay 14 acks from frost-00 => frost-04
+1702107150567 : Relay 13 packets from frost-01 => frost-00
+1702107156684 : ✘ Query failed with (6): rpc error: code = Unknown desc = failed to execute message; message index: 0: timeout packet verification failed: packet timeout has not been reached for height or timestamp: packet timeout [cosmos/ibc-go/v6@v6.1.0/modules/core/04-channel/keeper/timeout.go:72] With gas wanted: '18446744073709551615' and gas used: '101723' : unknown request

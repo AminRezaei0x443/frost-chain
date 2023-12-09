@@ -1,0 +1,677 @@
+[?25l
+  Cosmos SDK's version is: v0.46.7
+  
+  ◤ Initializing...
+  
+[2m[0m  [2mPress the 'q' key to stop serve[0m
+
+[0D[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing...
+[1B[1B[1B[0D[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing...
+[1B[1B[1B[0D[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing...
+[1B[1B[1B[0D[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing...
+[1B[1B[1B[0D[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[0D[2K
+  Cosmos SDK's version is: v0.46.7
+  
+  ◥ Building proto...
+  
+  ✔ Initializing [2m1s[0m
+  
+[2m[0m  [2mPress the 'q' key to stop serve[0m
+
+[0D[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Building proto...
+[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Building proto...
+[1B[1B[1B[1B[1B[0D[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[0D[2K
+  Cosmos SDK's version is: v0.46.7
+  
+  ◤ Installing dependencies...
+  
+  ✔ Building proto [2m1s[0m
+  ✔ Initializing [2m1s[0m
+  
+[2m[0m  [2mPress the 'q' key to stop serve[0m
+
+[0D[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Installing dependencies...
+[1B[1B[1B[1B[1B[1B[0D[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[0D[2K
+  Cosmos SDK's version is: v0.46.7
+  
+  ◢ Building the blockchain...
+  
+  ✔ Installing dependencies [2m0s[0m
+  ✔ Building proto [2m1s[0m
+  ✔ Initializing [2m1s[0m
+  
+[2m[0m  [2mPress the 'q' key to stop serve[0m
+
+[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Building the blockchain...
+[1B[1B[1B[1B[1B[1B[1B[0D[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[0D[2K
+  Cosmos SDK's version is: v0.46.7
+  
+  ◤ Initializing the app...
+  
+  ✔ Building the blockchain [2m4s[0m
+  ✔ Installing dependencies [2m0s[0m
+  ✔ Building proto [2m1s[0m
+  ✔ Initializing [2m1s[0m
+  
+[2m[0m  [2mPress the 'q' key to stop serve[0m
+
+[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing the app...
+[1B[1B[1B[1B[1B[1B[1B[1B[0D[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[0D[2K
+  Cosmos SDK's version is: v0.46.7
+  
+  ◢ Initializing accounts...
+  
+  ✔ Initializing the app [2m0s[0m
+  ✔ Building the blockchain [2m4s[0m
+  ✔ Installing dependencies [2m0s[0m
+  ✔ Building proto [2m1s[0m
+  ✔ Initializing [2m1s[0m
+  
+[2m[0m  [2mPress the 'q' key to stop serve[0m
+
+[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◥ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◢ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◣ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[2K[1A[1A[1A[0D[2K
+[1B[1B  ◤ Initializing accounts...
+[1B[1B[1B[1B[1B[1B[1B[1B[1B[0D[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[0D[2K
+  Blockchain is running
+  
+  ✔ Added account [1malice[0m with address cosmos1v27z4kztm3v6gczqu23vx90qaxkegmk5d49w2l and mnemonic:
+    advance soon flame goddess gym duck joy resemble alert inflict remove damp voice
+    grass weird walk uncle bus rubber lyrics inquiry object same foot               
+  
+  ✔ Added account [1muser0[0m with address cosmos1n33h44p8anjhvxyeew3x5yuk0kyvd87zpaz6hu and mnemonic:
+    close girl garden gentle acid humble napkin confirm forest tragic arena transfer
+    timber jeans slam cake miracle point nature federal blue school candy top       
+  
+  ✔ Added account [1muser1[0m with address cosmos16v0wyv83zde2uvwxfk7aqdg3luug9604x65m2v and mnemonic:
+    gentle street maid column pattern silk business finish thank gaze fan case tribe
+    regular outdoor funny dish another prefer between eagle borrow pill know        
+  
+  ✔ Added account [1muser2[0m with address cosmos10du37jay9ynm99x89fsr7nz4ptqzrzmec5v248 and mnemonic:
+    follow grid express ordinary basic put spell long fuel fiscal upper wave inherit
+    insect tennis autumn pitch trash pulse cement bonus identify unfair pattern     
+  
+  ✔ Added account [1muser3[0m with address cosmos17kdh2k976q2wzhalq3dw6q22tjtalmvfq2x4hl and mnemonic:
+    shine brother diagram ability social capital toddler visa album penalty fault
+    depth crop return clerk minute arrive fetch rail kick crouch slam age oval   
+  
+  ✔ Added account [1muser4[0m with address cosmos13r9a66syfcg77s86yluy7dkrut9ch39h5rsqra and mnemonic:
+    solution pond must sunset someone toe domain wheat broom any mixture unique 
+    indoor fashion virtual neither action camera eyebrow trophy fade heart night
+    list                                                                        
+  
+  ✔ Added account [1muser5[0m with address cosmos1hjy2ugj4yktkge0y4pzj3uczd04f3wcl6qjlyw and mnemonic:
+    deer club upset jungle wing panic require scene cook siege avocado capital dream
+    solid pottery pink satisfy session once valley census error much process        
+  
+  ✔ Added account [1muser6[0m with address cosmos1y4y06rzens4hc8msh7278g2uq4srjhe0mkaq3q and mnemonic:
+    dirt nice lion enjoy picnic fuel distance auction garbage twenty ostrich pass
+    average same better replace dismiss inspire lemon april setup spatial later  
+    maple                                                                        
+  
+  ✔ Added account [1muser7[0m with address cosmos1vjgug2jm9k6kjxh2l4traee3wfy3y4yj8k5j9x and mnemonic:
+    umbrella donkey pudding inspire harvest shoulder devote useless sheriff almost
+    fatigue verb toddler panic dress push office share split warfare pig chief    
+    render valley                                                                 
+  
+  ✔ Added account [1muser8[0m with address cosmos166h0fq55cd8dgqn4uqfppnha0eqyued6fxauhv and mnemonic:
+    faint claw measure grow slogan duty drama guitar cheese saddle present bamboo  
+    trigger wisdom faint attitude forest deny stick hair finish drill super captain
+  
+  ✔ Added account [1muser9[0m with address cosmos1ecln3durf04q09rtpl0nz5jtwdhmq2cprtgjhj and mnemonic:
+    mixture describe awesome decline pumpkin pen obtain happy artist glass old   
+    bundle bleak pupil law release service sponsor guard arctic moral mixed grief
+    garbage                                                                      
+  
+  ✔ Added account [1muser10[0m with address cosmos150pu9eladn9u3pz4mq8dudr4uaw6slxq66ul2u and mnemonic:
+    siren photo practice shiver detect rare virtual water decide naive inform spider
+    accuse toilet ahead slight sun anchor kit weasel phrase ceiling brown pull      
+  
+  ✔ Added account [1muser11[0m with address cosmos1l4lwpr4vp8vtnrf0rxqhhua4k9l46gsqvgaqwd and mnemonic:
+    hold before unique execute space solid crime hover able bitter sick write loop
+    habit during budget easy pioneer neutral grab raw general obscure ask         
+  
+  ✔ Added account [1muser12[0m with address cosmos1a23l4fcmgt5n45wh9uuveg2rlv4e7ucnan7wlp and mnemonic:
+    atom doll banner picture dignity resemble spread consider squirrel erode atom 
+    punch cream avocado enlist draft unusual oxygen sound write trash voice burden
+    gentle                                                                        
+  
+  ✔ Added account [1muser13[0m with address cosmos1x0yhgdyjtal8wydte880xh2y7tr06yp6jspx6d and mnemonic:
+    paper syrup health casual puppy memory burst process fork bridge aunt party    
+    transfer program exile spoon chalk lecture space attend safe muscle upset speed
+  
+  ✔ Added account [1muser14[0m with address cosmos18c7r5fqxmwayyr60tw9a04wvxlcjqrskvpgr77 and mnemonic:
+    sock suit clean orange sock test industry vanish bachelor age foster chair coin
+    deliver feed dash friend dinosaur pact fame easily flower fresh energy         
+  
+  ✔ Added account [1muser15[0m with address cosmos1hpjwp5mps4k4dssvzx3545wzxglyqj4wvfm52u and mnemonic:
+    beauty daughter question push fault weapon road tornado chicken true napkin gate
+    impose catalog dog select copy ship brush ensure tomorrow magnet magic method   
+  
+  ✔ Added account [1muser16[0m with address cosmos10hl8a8u6ugpruw5m4snfc9yxw8xug6xyu3kq4f and mnemonic:
+    bullet relax endorse domain tape light funny label canal embrace end hammer  
+    shiver push turkey imitate marriage iron magic inside near van force mosquito
+  
+  ✔ Added account [1muser17[0m with address cosmos1ujvswjs8rk5qww0jcs8e09q5k2em32nt8w64d5 and mnemonic:
+    right wine now resource cupboard cave blue tomato chair rookie senior fan dove
+    boss anxiety post insane hospital team spy style digital tired one            
+  
+  ✔ Added account [1muser18[0m with address cosmos1hapvxlzjhz89x9nfy2mtd8wmq226yw5ypwutzy and mnemonic:
+    few bring elephant gather man aspect grief either quantum imitate dragon mistake
+    uncle early street protect grace text twin slab robust bicycle index wear       
+  
+  ✔ Added account [1muser19[0m with address cosmos1g4upqtywtk7t9wv7l26w5j6vkc6yu5f8kjnpp6 and mnemonic:
+    sibling galaxy absorb wrong couple glow put around exhaust risk left weasel maze
+    trouble guess battle armor erode suffer asset rug agree mouse job               
+  
+  ✔ Added account [1muser20[0m with address cosmos1az4gnkp36g42ngzu4ch97ha0d5zmyf8zmh2vv9 and mnemonic:
+    element student average plug scale truth rose moon quality erosion warrior     
+    myself rotate hood alien trophy super rude inspire sadness movie prevent butter
+    express                                                                        
+  
+  ✔ Added account [1muser21[0m with address cosmos156n5skuchqcyzx8puxedj7lhw2h6khzkj8nusc and mnemonic:
+    forget shallow bean aspect split doctor hedgehog nominee vibrant scrub series 
+    leaf subject cute follow luxury swear student unlock gift welcome mercy doctor
+    this                                                                          
+  
+  ✔ Added account [1muser22[0m with address cosmos16cw33wyy7sc3ej52yg25en8vhnyeatzlsxxrxj and mnemonic:
+    raccoon cushion blanket tank frequent old grab smooth use swallow base village  
+    awesome flag predict tennis citizen angry void vital unfold nation pigeon rotate
+  
+  ✔ Added account [1muser23[0m with address cosmos1la8f4dynhd458uf4xc5e5u7u55935u6vzqsss3 and mnemonic:
+    engine tattoo crew essay banner raccoon ocean miracle master judge owner type
+    annual cage idea stage alter enough animal dream explain ill illegal bird    
+  
+  ✔ Added account [1muser24[0m with address cosmos1v9dskd9eyx2tzr0kuw79z9t2wanjpq5t4fkqq9 and mnemonic:
+    remind sunny garage unable message maple goose obscure company addict dose      
+    economy weekend false tone curve rescue wrap honey find frost scrap fiber boring
+  
+  ✔ Added account [1mbob[0m with address cosmos1elv3h3jtjntuxy3mvpjfyqxxgklhp6apzz2n5f and mnemonic:
+    foster cool umbrella icon owner film obscure wild spray slice merry panic feed
+    reflect announce magic debate drink concert skirt argue during hospital bar   
+  
+  
+[2m[0m  [2mPress the 'q' key to stop serve[0m
+
+[0D[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[0D[2K
+  Blockchain is running
+  
+  ✔ Added account [1malice[0m with address cosmos1v27z4kztm3v6gczqu23vx90qaxkegmk5d49w2l and mnemonic:
+    advance soon flame goddess gym duck joy resemble alert inflict remove damp voice
+    grass weird walk uncle bus rubber lyrics inquiry object same foot               
+  
+  ✔ Added account [1muser0[0m with address cosmos1n33h44p8anjhvxyeew3x5yuk0kyvd87zpaz6hu and mnemonic:
+    close girl garden gentle acid humble napkin confirm forest tragic arena transfer
+    timber jeans slam cake miracle point nature federal blue school candy top       
+  
+  ✔ Added account [1muser1[0m with address cosmos16v0wyv83zde2uvwxfk7aqdg3luug9604x65m2v and mnemonic:
+    gentle street maid column pattern silk business finish thank gaze fan case tribe
+    regular outdoor funny dish another prefer between eagle borrow pill know        
+  
+  ✔ Added account [1muser2[0m with address cosmos10du37jay9ynm99x89fsr7nz4ptqzrzmec5v248 and mnemonic:
+    follow grid express ordinary basic put spell long fuel fiscal upper wave inherit
+    insect tennis autumn pitch trash pulse cement bonus identify unfair pattern     
+  
+  ✔ Added account [1muser3[0m with address cosmos17kdh2k976q2wzhalq3dw6q22tjtalmvfq2x4hl and mnemonic:
+    shine brother diagram ability social capital toddler visa album penalty fault
+    depth crop return clerk minute arrive fetch rail kick crouch slam age oval   
+  
+  ✔ Added account [1muser4[0m with address cosmos13r9a66syfcg77s86yluy7dkrut9ch39h5rsqra and mnemonic:
+    solution pond must sunset someone toe domain wheat broom any mixture unique 
+    indoor fashion virtual neither action camera eyebrow trophy fade heart night
+    list                                                                        
+  
+  ✔ Added account [1muser5[0m with address cosmos1hjy2ugj4yktkge0y4pzj3uczd04f3wcl6qjlyw and mnemonic:
+    deer club upset jungle wing panic require scene cook siege avocado capital dream
+    solid pottery pink satisfy session once valley census error much process        
+  
+  ✔ Added account [1muser6[0m with address cosmos1y4y06rzens4hc8msh7278g2uq4srjhe0mkaq3q and mnemonic:
+    dirt nice lion enjoy picnic fuel distance auction garbage twenty ostrich pass
+    average same better replace dismiss inspire lemon april setup spatial later  
+    maple                                                                        
+  
+  ✔ Added account [1muser7[0m with address cosmos1vjgug2jm9k6kjxh2l4traee3wfy3y4yj8k5j9x and mnemonic:
+    umbrella donkey pudding inspire harvest shoulder devote useless sheriff almost
+    fatigue verb toddler panic dress push office share split warfare pig chief    
+    render valley                                                                 
+  
+  ✔ Added account [1muser8[0m with address cosmos166h0fq55cd8dgqn4uqfppnha0eqyued6fxauhv and mnemonic:
+    faint claw measure grow slogan duty drama guitar cheese saddle present bamboo  
+    trigger wisdom faint attitude forest deny stick hair finish drill super captain
+  
+  ✔ Added account [1muser9[0m with address cosmos1ecln3durf04q09rtpl0nz5jtwdhmq2cprtgjhj and mnemonic:
+    mixture describe awesome decline pumpkin pen obtain happy artist glass old   
+    bundle bleak pupil law release service sponsor guard arctic moral mixed grief
+    garbage                                                                      
+  
+  ✔ Added account [1muser10[0m with address cosmos150pu9eladn9u3pz4mq8dudr4uaw6slxq66ul2u and mnemonic:
+    siren photo practice shiver detect rare virtual water decide naive inform spider
+    accuse toilet ahead slight sun anchor kit weasel phrase ceiling brown pull      
+  
+  ✔ Added account [1muser11[0m with address cosmos1l4lwpr4vp8vtnrf0rxqhhua4k9l46gsqvgaqwd and mnemonic:
+    hold before unique execute space solid crime hover able bitter sick write loop
+    habit during budget easy pioneer neutral grab raw general obscure ask         
+  
+  ✔ Added account [1muser12[0m with address cosmos1a23l4fcmgt5n45wh9uuveg2rlv4e7ucnan7wlp and mnemonic:
+    atom doll banner picture dignity resemble spread consider squirrel erode atom 
+    punch cream avocado enlist draft unusual oxygen sound write trash voice burden
+    gentle                                                                        
+  
+  ✔ Added account [1muser13[0m with address cosmos1x0yhgdyjtal8wydte880xh2y7tr06yp6jspx6d and mnemonic:
+    paper syrup health casual puppy memory burst process fork bridge aunt party    
+    transfer program exile spoon chalk lecture space attend safe muscle upset speed
+  
+  ✔ Added account [1muser14[0m with address cosmos18c7r5fqxmwayyr60tw9a04wvxlcjqrskvpgr77 and mnemonic:
+    sock suit clean orange sock test industry vanish bachelor age foster chair coin
+    deliver feed dash friend dinosaur pact fame easily flower fresh energy         
+  
+  ✔ Added account [1muser15[0m with address cosmos1hpjwp5mps4k4dssvzx3545wzxglyqj4wvfm52u and mnemonic:
+    beauty daughter question push fault weapon road tornado chicken true napkin gate
+    impose catalog dog select copy ship brush ensure tomorrow magnet magic method   
+  
+  ✔ Added account [1muser16[0m with address cosmos10hl8a8u6ugpruw5m4snfc9yxw8xug6xyu3kq4f and mnemonic:
+    bullet relax endorse domain tape light funny label canal embrace end hammer  
+    shiver push turkey imitate marriage iron magic inside near van force mosquito
+  
+  ✔ Added account [1muser17[0m with address cosmos1ujvswjs8rk5qww0jcs8e09q5k2em32nt8w64d5 and mnemonic:
+    right wine now resource cupboard cave blue tomato chair rookie senior fan dove
+    boss anxiety post insane hospital team spy style digital tired one            
+  
+  ✔ Added account [1muser18[0m with address cosmos1hapvxlzjhz89x9nfy2mtd8wmq226yw5ypwutzy and mnemonic:
+    few bring elephant gather man aspect grief either quantum imitate dragon mistake
+    uncle early street protect grace text twin slab robust bicycle index wear       
+  
+  ✔ Added account [1muser19[0m with address cosmos1g4upqtywtk7t9wv7l26w5j6vkc6yu5f8kjnpp6 and mnemonic:
+    sibling galaxy absorb wrong couple glow put around exhaust risk left weasel maze
+    trouble guess battle armor erode suffer asset rug agree mouse job               
+  
+  ✔ Added account [1muser20[0m with address cosmos1az4gnkp36g42ngzu4ch97ha0d5zmyf8zmh2vv9 and mnemonic:
+    element student average plug scale truth rose moon quality erosion warrior     
+    myself rotate hood alien trophy super rude inspire sadness movie prevent butter
+    express                                                                        
+  
+  ✔ Added account [1muser21[0m with address cosmos156n5skuchqcyzx8puxedj7lhw2h6khzkj8nusc and mnemonic:
+    forget shallow bean aspect split doctor hedgehog nominee vibrant scrub series 
+    leaf subject cute follow luxury swear student unlock gift welcome mercy doctor
+    this                                                                          
+  
+  ✔ Added account [1muser22[0m with address cosmos16cw33wyy7sc3ej52yg25en8vhnyeatzlsxxrxj and mnemonic:
+    raccoon cushion blanket tank frequent old grab smooth use swallow base village  
+    awesome flag predict tennis citizen angry void vital unfold nation pigeon rotate
+  
+  ✔ Added account [1muser23[0m with address cosmos1la8f4dynhd458uf4xc5e5u7u55935u6vzqsss3 and mnemonic:
+    engine tattoo crew essay banner raccoon ocean miracle master judge owner type
+    annual cage idea stage alter enough animal dream explain ill illegal bird    
+  
+  ✔ Added account [1muser24[0m with address cosmos1v9dskd9eyx2tzr0kuw79z9t2wanjpq5t4fkqq9 and mnemonic:
+    remind sunny garage unable message maple goose obscure company addict dose      
+    economy weekend false tone curve rescue wrap honey find frost scrap fiber boring
+  
+  ✔ Added account [1mbob[0m with address cosmos1elv3h3jtjntuxy3mvpjfyqxxgklhp6apzz2n5f and mnemonic:
+    foster cool umbrella icon owner film obscure wild spray slice merry panic feed
+    reflect announce magic debate drink concert skirt argue during hospital bar   
+  
+  🌍 Tendermint node: http://0.0.0.0:10026
+  🌍 Blockchain API: http://0.0.0.0:10022
+  🌍 Token faucet: http://0.0.0.0:10028
+  
+  ⋆ Data directory: [2m/root/.frost-03[0m
+  ⋆ App binary: [2m/root/go/bin/frostd[0m
+  
+[2m[0m  [2mPress the 'q' key to stop serve[0m
+
+[0D

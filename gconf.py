@@ -4,8 +4,10 @@ import os
 project = sys.argv[1]
 N = int(sys.argv[2])
 out = sys.argv[3]
+# U = int(sys.argv[4])
+U = 25
 
-cf = lambda id, bp: f"""version: 1
+cf = lambda id, bp, users: f"""version: 1
 build:
   proto:
     path: proto
@@ -17,7 +19,7 @@ accounts:
   coins:
   - 1000token
   - 1000000000stake
-- name: bob
+{users}- name: bob
   coins:
   - 500token
   - 100000000stake
@@ -48,9 +50,18 @@ validators:
   home: $HOME/.{project}-{id:02d}
 """
 
+user_c = lambda id_: f"""- name: user{id_}
+  coins:
+  - 1000token
+  - 1000000000stake
+"""
+
 os.makedirs(out, exist_ok=True)
 available_port = 10001
 for i in range(N):
     with open(f"{out}/{project}-{i:02d}.yml", "w") as f:
-        f.write(cf(i, available_port))
+        u = ""
+        for j in range(U):
+          u += user_c(j)
+        f.write(cf(i, available_port, u))
         available_port += 7

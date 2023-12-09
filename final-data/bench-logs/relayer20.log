@@ -1,0 +1,31 @@
+1702107894582 : ·
+1702107894586 : · 🛸 Ignite CLI v28.0.0 is available!
+1702107894589 : ·
+1702107894594 : · To upgrade your Ignite CLI version, see the upgrade doc: https://docs.ignite.com/guide/install#upgrading-your-ignite-cli-installation
+1702107894598 : ·
+1702107894600 : ··
+1702107894603 :
+1702107894605 : ------
+1702107894608 : Paths
+1702107894611 : ------
+1702107894615 :
+1702107894617 : frost-00-frost-01:
+1702107894619 : frost-00 > (port: blog) (channel: channel-0)
+1702107894622 : frost-01 > (port: blog) (channel: channel-0)
+1702107894624 :
+1702107894626 : frost-00-frost-02:
+1702107894627 : frost-00 > (port: blog) (channel: channel-1)
+1702107894629 : frost-02 > (port: blog) (channel: channel-0)
+1702107894630 :
+1702107894632 : frost-00-frost-03:
+1702107894635 : frost-00 > (port: blog) (channel: channel-2)
+1702107894637 : frost-03 > (port: blog) (channel: channel-0)
+1702107894639 :
+1702107894641 : frost-00-frost-04:
+1702107894643 : frost-00 > (port: blog) (channel: channel-3)
+1702107894645 : frost-04 > (port: blog) (channel: channel-0)
+1702107894647 :
+1702107894649 : ------
+1702107894650 : Listening and relaying packets between chains...
+1702107894651 : ------
+1702107894653 :

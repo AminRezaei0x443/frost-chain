@@ -1,0 +1,141 @@
+version: 1
+build:
+  proto:
+    path: proto
+    third_party_paths:
+    - third_party/proto
+    - proto_vendor
+accounts:
+- name: alice
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user0
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user1
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user2
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user3
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user4
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user5
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user6
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user7
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user8
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user9
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user10
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user11
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user12
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user13
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user14
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user15
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user16
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user17
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user18
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user19
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user20
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user21
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user22
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user23
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: user24
+  coins:
+  - 1000token
+  - 1000000000stake
+- name: bob
+  coins:
+  - 500token
+  - 100000000stake
+faucet:
+  name: bob
+  coins:
+  - 5token
+  - 100000stake
+  host: :10035
+genesis:
+  chain_id: frost-04
+validators:
+- name: alice
+  bonded: 100000000stake
+  app:
+    api:
+      address: :10029
+    grpc:
+      address: :10030
+    grpc-web:
+      address: :10031
+  config:
+    p2p:
+      laddr: :10032
+    rpc:
+      laddr: :10033
+      pprof_laddr: :10034
+  home: $HOME/.frost-04

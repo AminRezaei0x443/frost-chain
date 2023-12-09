@@ -1,0 +1,44 @@
+1702107433306 : ·
+1702107433311 : · 🛸 Ignite CLI v28.0.0 is available!
+1702107433314 : ·
+1702107433317 : · To upgrade your Ignite CLI version, see the upgrade doc: https://docs.ignite.com/guide/install#upgrading-your-ignite-cli-installation
+1702107433320 : ·
+1702107433324 : ··
+1702107433326 :
+1702107433328 : ------
+1702107433332 : Paths
+1702107433335 : ------
+1702107433339 :
+1702107433341 : frost-00-frost-01:
+1702107433343 : frost-00 > (port: blog) (channel: channel-0)
+1702107433345 : frost-01 > (port: blog) (channel: channel-0)
+1702107433350 :
+1702107433353 : frost-00-frost-02:
+1702107433356 : frost-00 > (port: blog) (channel: channel-1)
+1702107433358 : frost-02 > (port: blog) (channel: channel-0)
+1702107433360 :
+1702107433362 : frost-00-frost-03:
+1702107433364 : frost-00 > (port: blog) (channel: channel-2)
+1702107433365 : frost-03 > (port: blog) (channel: channel-0)
+1702107433368 :
+1702107433370 : frost-00-frost-04:
+1702107433371 : frost-00 > (port: blog) (channel: channel-3)
+1702107433372 : frost-04 > (port: blog) (channel: channel-0)
+1702107433374 :
+1702107433375 : ------
+1702107433376 : Listening and relaying packets between chains...
+1702107433378 : ------
+1702107433379 :
+1702107470425 : Relay 14 packets from frost-03 => frost-00
+1702107477812 : Relay 14 acks from frost-00 => frost-03
+1702107485314 : Relay 11 packets from frost-04 => frost-00
+1702107492685 : Relay 11 acks from frost-00 => frost-04
+1702107495197 : Relay 16 packets from frost-01 => frost-00
+1702107502590 : Relay 16 acks from frost-00 => frost-01
+1702107510707 : Relay 9 packets from frost-02 => frost-00
+1702107518064 : Relay 9 acks from frost-00 => frost-02
+1702107520453 : Relay 14 packets from frost-03 => frost-00
+1702107527809 : Relay 14 acks from frost-00 => frost-03
+1702107535790 : Relay 9 packets from frost-04 => frost-00
+1702107543101 : Relay 9 acks from frost-00 => frost-04
+1702107552420 : ✘ Query failed with (6): rpc error: code = Unknown desc = failed to execute message; message index: 4: timeout packet verification failed: packet timeout has not been reached for height or timestamp: packet timeout [cosmos/ibc-go/v6@v6.1.0/modules/core/04-channel/keeper/timeout.go:72] With gas wanted: '18446744073709551615' and gas used: '442070' : unknown request

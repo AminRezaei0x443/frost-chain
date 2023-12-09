@@ -1,0 +1,43 @@
+1702107187109 : ·
+1702107187112 : · 🛸 Ignite CLI v28.0.0 is available!
+1702107187115 : ·
+1702107187119 : · To upgrade your Ignite CLI version, see the upgrade doc: https://docs.ignite.com/guide/install#upgrading-your-ignite-cli-installation
+1702107187122 : ·
+1702107187124 : ··
+1702107187125 :
+1702107187128 : ------
+1702107187131 : Paths
+1702107187135 : ------
+1702107187137 :
+1702107187140 : frost-00-frost-01:
+1702107187143 : frost-00 > (port: blog) (channel: channel-0)
+1702107187145 : frost-01 > (port: blog) (channel: channel-0)
+1702107187147 :
+1702107187150 : frost-00-frost-02:
+1702107187155 : frost-00 > (port: blog) (channel: channel-1)
+1702107187157 : frost-02 > (port: blog) (channel: channel-0)
+1702107187160 :
+1702107187162 : frost-00-frost-03:
+1702107187164 : frost-00 > (port: blog) (channel: channel-2)
+1702107187167 : frost-03 > (port: blog) (channel: channel-0)
+1702107187170 :
+1702107187175 : frost-00-frost-04:
+1702107187180 : frost-00 > (port: blog) (channel: channel-3)
+1702107187182 : frost-04 > (port: blog) (channel: channel-0)
+1702107187184 :
+1702107187187 : ------
+1702107187193 : Listening and relaying packets between chains...
+1702107187196 : ------
+1702107187198 :
+1702107193882 : Relay 13 acks from frost-00 => frost-01
+1702107224993 : Relay 12 packets from frost-03 => frost-00
+1702107232363 : Relay 12 acks from frost-00 => frost-03
+1702107239548 : Relay 8 packets from frost-04 => frost-00
+1702107246881 : Relay 8 acks from frost-00 => frost-04
+1702107250811 : Relay 10 packets from frost-01 => frost-00
+1702107258123 : Relay 10 acks from frost-00 => frost-01
+1702107259789 : Relay 14 packets from frost-02 => frost-00
+1702107267195 : Relay 14 acks from frost-00 => frost-02
+1702107275081 : Relay 11 packets from frost-03 => frost-00
+1702107282458 : Relay 11 acks from frost-00 => frost-03
+1702107289859 : ✘ Query failed with (6): rpc error: code = Unknown desc = failed to execute message; message index: 5: timeout packet verification failed: packet timeout has not been reached for height or timestamp: packet timeout [cosmos/ibc-go/v6@v6.1.0/modules/core/04-channel/keeper/timeout.go:72] With gas wanted: '18446744073709551615' and gas used: '536250' : unknown request

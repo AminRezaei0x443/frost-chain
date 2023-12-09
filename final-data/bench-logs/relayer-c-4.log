@@ -1,0 +1,24 @@
+·
+· 🛸 Ignite CLI v28.0.0 is available!
+·
+· To upgrade your Ignite CLI version, see the upgrade doc: https://docs.ignite.com/guide/install#upgrading-your-ignite-cli-installation
+·
+··
+
+------
+Setting up chains
+------
+
+
+🔐  Account on "source" is default(cosmos1zu8kctgjwwcn6du6n2jly5sqydwcss6rcalmlk)
+ 
+ |· [32mreceived coins from a faucet[0m
+ |· (balance: 400000stake,20token)
+
+🔐  Account on "target" is default(cosmos1zu8kctgjwwcn6du6n2jly5sqydwcss6rcalmlk)
+ 
+ |· [32mreceived coins from a faucet[0m
+ |· (balance: 100000stake,5token)
+
+⛓  Configured chains: [32mfrost-00-frost-04[0m
+
